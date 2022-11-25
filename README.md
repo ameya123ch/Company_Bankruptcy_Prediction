@@ -176,18 +176,18 @@ Heroku
 
 Bankruptcy data from the Taiwan Economic Journal for the years 1999–2009
 
-######Context
+###### Context
 
 The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
 
-######Source
+###### Source
 
 Deron Liang and Chih-Fong Tsai, deronliang '@' gmail.com; cftsai '@' mgt.ncu.edu.tw, National Central University, Taiwan The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
 
 
-######Dataset link : https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
+###### Dataset link : https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
 
-######Attribute Information
+###### Attribute Information
 
 Y - Bankrupt?: Class label X1 - ROA(C) before interest and depreciation before interest: Return On Total Assets(C)
 
