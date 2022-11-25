@@ -51,3 +51,53 @@ Outliers
 
 ## 2. Credit Score Classification
 
+
+
+
+![91867Screenshot (125)](https://user-images.githubusercontent.com/88341388/203889985-dc079235-1694-4cf3-8176-f749c2e27604.png)
+
+## Stock Price Forecasting App
+
+
+###### Content
+
+Stocks and financial instrument trading is a lucrative proposition. Stock markets across the world facilitate such trades and thus wealth exchanges hands. Stock prices move up and down all the time and having ability to predict its movement has immense potential to make one rich.
+
+Stock price prediction is the task of forecasting the future value of a given stock. Given the historical daily close price, prepare and compare forecasting solutions.
+
+###### Dataset
+
+The historical stock price information is also publicly available. For our current use case, we will utilize the pandasdatareader library to get the required 4 stocks which are Goldman Sachs, Morgan Stanley, JP Morgan Chase and Citigroup using Yahoo Finance databases.
+
+###### App
+Check out my app where you will be able to see detailed forecasting on 4 stocks:
+
+https://stock67.herokuapp.com/
+
+###### Tools used for this Project
+Stock price forecasting:
+
+Facebook Prophet
+
+Deployment :
+
+Streamlit
+
+Heroku
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
