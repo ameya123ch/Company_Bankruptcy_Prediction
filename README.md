@@ -84,6 +84,11 @@ Heroku
 
 
 
+![0_AJr07x6ChJ6o_HQM](https://user-images.githubusercontent.com/88341388/203899251-36af1a60-13a9-49e7-8ba3-425bae67daa0.jpeg)
+
+## 4. Finanical News Sentiment Analysis
+
+
 
 
 
