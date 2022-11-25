@@ -167,6 +167,27 @@ Heroku
 
 ## 4. Finanical News Sentiment Analysis
 
+######About the Dataset
+
+India financial news sentiment analysis dataset compiled together.
+
+Date range: Jan 1, 2017 to April 15, 2021
+
+News sources:
+Indian sources: Economic Times, Money Control, Livemint, Business Today, Financial Express
+Foreign sources: NY Times, WSJ, Washington Post
+
+Keywords:
+Indian sources: "economy" or "markets" or "inflation"
+Foreign sources: "Indian economy" OR "India economy" OR "Indian businesses" OR "Indian business"
+
+Sentiment analysis: Performed using flair NLP model. All confidence scores for NEGATIVE sentiment datapoints have been multiplied by -1 from the original flair output. Basic cleanup of data done to remove repetition of headlines and all headlines less than 30 characters are ignored.
+
+Acknowledgements: GDELT Headline Scrape script from Prof. Ken Blake (https://drkblake.com/gdeltheadlinescrape/) has been used to generate the news headlines dataset.
+
+Motivation: The intent of generating this data was to compile recent years financial news headlines for India and perform sentiment analysis on it.
+
+
 
 
 ![business-man-watching-company-go-bankrupt-pop](https://user-images.githubusercontent.com/88341388/203910486-bbc908c2-1d3b-4d79-b760-dcac7341b9fc.jpg)
