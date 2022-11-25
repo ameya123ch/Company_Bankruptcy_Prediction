@@ -56,7 +56,7 @@ Outliers
 
 ![91867Screenshot (125)](https://user-images.githubusercontent.com/88341388/203889985-dc079235-1694-4cf3-8176-f749c2e27604.png)
 
-## Stock Price Forecasting App
+## 3. Stock Price Forecasting App
 
 
 ###### Content
@@ -69,10 +69,6 @@ Stock price prediction is the task of forecasting the future value of a given st
 
 The historical stock price information is also publicly available. For our current use case, we will utilize the pandasdatareader library to get the required 4 stocks which are Goldman Sachs, Morgan Stanley, JP Morgan Chase and Citigroup using Yahoo Finance databases.
 
-###### App
-Check out my app where you will be able to see detailed forecasting on 4 stocks:
-
-https://stock67.herokuapp.com/
 
 ###### Tools used for this Project
 Stock price forecasting:
