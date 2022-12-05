@@ -158,7 +158,7 @@ Deployment :
 
 Streamlit
 
-Heroku
+Huggingface
 
 
 
