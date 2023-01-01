@@ -46,6 +46,10 @@ Imbalanced Dataset
 
 Outliers
 
+App
+
+![Screenshot (7)](https://user-images.githubusercontent.com/88341388/210163372-5447d565-60f0-4f9f-aeb6-dd21354571fb.png)
+
 
 ![istockphoto-1200726951-612x612](https://user-images.githubusercontent.com/88341388/203758077-9342a869-9631-49ae-91b6-136b0c4d9554.jpg)
 
