@@ -7,9 +7,11 @@
 
 
 
-![dataset-cover](https://user-images.githubusercontent.com/88341388/203754171-9b931d52-652c-4b60-a868-d97920a21181.jpg)
+
 
 ## 1. Online Payments Fraud Detection
+
+![dataset-cover](https://user-images.githubusercontent.com/88341388/203754171-9b931d52-652c-4b60-a868-d97920a21181.jpg)
 
 ###### Problem Statement
 
@@ -30,10 +32,11 @@ App
 ![Screenshot (7)](https://user-images.githubusercontent.com/88341388/210163372-5447d565-60f0-4f9f-aeb6-dd21354571fb.png)
 
 
-![istockphoto-1200726951-612x612](https://user-images.githubusercontent.com/88341388/203758077-9342a869-9631-49ae-91b6-136b0c4d9554.jpg)
 
 
 ## 2. Credit Score Classification
+
+![istockphoto-1200726951-612x612](https://user-images.githubusercontent.com/88341388/203758077-9342a869-9631-49ae-91b6-136b0c4d9554.jpg)
 
 ###### Problem Statement
 
@@ -53,10 +56,11 @@ Given a person’s credit-related information, build a machine learning model th
 
 
 
-![91867Screenshot (125)](https://user-images.githubusercontent.com/88341388/203889985-dc079235-1694-4cf3-8176-f749c2e27604.png)
+
 
 ## 3. Stock Price Forecasting App
 
+![91867Screenshot (125)](https://user-images.githubusercontent.com/88341388/203889985-dc079235-1694-4cf3-8176-f749c2e27604.png)
 
 ###### Content
 
@@ -83,9 +87,11 @@ Huggingface
 
 
 
-![0_AJr07x6ChJ6o_HQM](https://user-images.githubusercontent.com/88341388/203899251-36af1a60-13a9-49e7-8ba3-425bae67daa0.jpeg)
+!
 
 ## 4. Finanical News Sentiment Analysis
+
+[0_AJr07x6ChJ6o_HQM](https://user-images.githubusercontent.com/88341388/203899251-36af1a60-13a9-49e7-8ba3-425bae67daa0.jpeg)
 
 ###### About the Dataset
 
@@ -116,10 +122,12 @@ Check out my app: https://huggingface.co/spaces/ameya123ch/FinanicalNewsSentimen
 
 
 
-![business-man-watching-company-go-bankrupt-pop](https://user-images.githubusercontent.com/88341388/203910486-bbc908c2-1d3b-4d79-b760-dcac7341b9fc.jpg)
+
 
 
 ## 5. Company Bankruptcy Prediction
+
+![business-man-watching-company-go-bankrupt-pop](https://user-images.githubusercontent.com/88341388/203910486-bbc908c2-1d3b-4d79-b760-dcac7341b9fc.jpg)
 
 Bankruptcy data from the Taiwan Economic Journal for the years 1999–2009
 
