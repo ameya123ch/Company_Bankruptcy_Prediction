@@ -86,12 +86,13 @@ Huggingface
 
 
 
+![project-2](https://user-images.githubusercontent.com/88341388/211352023-4366ae1b-f4b5-41f2-9836-2fb30ed0aeed.jpeg)
 
-!
+
 
 ## 4. Finanical News Sentiment Analysis
 
-[0_AJr07x6ChJ6o_HQM](https://user-images.githubusercontent.com/88341388/203899251-36af1a60-13a9-49e7-8ba3-425bae67daa0.jpeg)
+![project-2](https://user-images.githubusercontent.com/88341388/211352023-4366ae1b-f4b5-41f2-9836-2fb30ed0aeed.jpeg)
 
 ###### About the Dataset
 
