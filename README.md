@@ -22,11 +22,22 @@ To identify online payment fraud with machine learning, we need to train a machi
 
 For this task, I have used a dataset containing information about online payment fraud, so that I can understand what types of transactions lead to fraud. I collected this a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
 
-### Challenges Faced
+### Data Preprocessing and Feature Engineering
+In this step, I faced certain challenges before the model building which were Imbalance data, Outliers and categorical variables.these problems were taken care of by auto ml library Pycaret.
 
-Imbalanced Dataset
+### Model Building using Auto ML
 
-Outliers
+###### Pycaret AutoML Library
+
+PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows.
+
+It is an end-to-end machine learning and model management tool that exponentially speeds up the experiment cycle and makes you more productive.
+
+Compared with the other open-source machine learning libraries, PyCaret is an alternate low-code library that can be used to replace hundreds of lines of code with a few lines only. This makes experiments exponentially fast and efficient.
+
+
+
+
 
 ### App
 
