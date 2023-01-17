@@ -20,7 +20,7 @@ To identify online payment fraud with machine learning, we need to train a machi
 
 ### Data Gathering
 
-For this task, we need a dataset containing information about online payment fraud, so that we can understand what types of transactions lead to fraud. I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
+For this task, I have used a dataset containing information about online payment fraud, so that I can understand what types of transactions lead to fraud. I collected this a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
 
 ### Challenges Faced
 
@@ -39,13 +39,13 @@ Outliers
 
 ![istockphoto-1200726951-612x612](https://user-images.githubusercontent.com/88341388/203758077-9342a869-9631-49ae-91b6-136b0c4d9554.jpg)
 
-###### Problem Statement
+### Problem Statement
 
 You are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.
 
 
 
-###### Task
+### Task
 
 Given a person’s credit-related information, build a machine learning model that can classify the credit score.
 
@@ -63,18 +63,18 @@ Given a person’s credit-related information, build a machine learning model th
 
 ![91867Screenshot (125)](https://user-images.githubusercontent.com/88341388/203889985-dc079235-1694-4cf3-8176-f749c2e27604.png)
 
-###### Content
+### Content
 
 Stocks and financial instrument trading is a lucrative proposition. Stock markets across the world facilitate such trades and thus wealth exchanges hands. Stock prices move up and down all the time and having ability to predict its movement has immense potential to make one rich.
 
 Stock price prediction is the task of forecasting the future value of a given stock. Given the historical daily close price, prepare and compare forecasting solutions.
 
-###### Dataset
+### Dataset
 
 The historical stock price information is also publicly available. For our current use case, we will utilize the pandasdatareader library to get the required 4 stocks which are Goldman Sachs, Morgan Stanley, JP Morgan Chase and Citigroup using Yahoo Finance databases.
 
 
-###### Tools used for this Project
+### Tools used for this Project
 Stock price forecasting:
 
 Facebook Prophet
@@ -94,7 +94,7 @@ Huggingface
 
 ![project-2](https://user-images.githubusercontent.com/88341388/211352023-4366ae1b-f4b5-41f2-9836-2fb30ed0aeed.jpeg)
 
-###### About the Dataset
+### About the Dataset
 
 India financial news sentiment analysis dataset compiled together.
 
@@ -132,22 +132,22 @@ Check out my app: https://huggingface.co/spaces/ameya123ch/FinanicalNewsSentimen
 
 Bankruptcy data from the Taiwan Economic Journal for the years 1999–2009
 
-###### Context
+### Context
 
 The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
 
-###### Source
+### Source
 
 Deron Liang and Chih-Fong Tsai, deronliang '@' gmail.com; cftsai '@' mgt.ncu.edu.tw, National Central University, Taiwan The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
 
 
-###### Dataset link : https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
+### Dataset link : https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
 
 
-###### Task
+### Task
 Create a model which can classify whether the company will go bankcrupt or not
 
-###### Challenges Faced
+### Challenges Faced
 
 Outliers
 
