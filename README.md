@@ -13,7 +13,7 @@
 
 ![dataset-cover](https://user-images.githubusercontent.com/88341388/203754171-9b931d52-652c-4b60-a868-d97920a21181.jpg)
 
-#### Problem Statement
+### Problem Statement
 
 To identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. 
 
