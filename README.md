@@ -18,17 +18,17 @@
 To identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. 
 
 
-## Data Gathering
+### Data Gathering
 
 For this task, we need a dataset containing information about online payment fraud, so that we can understand what types of transactions lead to fraud. I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
 
-## Challenges Faced
+### Challenges Faced
 
 Imbalanced Dataset
 
 Outliers
 
-## App
+### App
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/88341388/210163372-5447d565-60f0-4f9f-aeb6-dd21354571fb.png)
 
