@@ -1,6 +1,6 @@
 
 
-# Finance-Related Projects
+# Finance-Related Data Science Projects
 
 ## Here is the list of my Finance Projects and a detailed overview of this projects:
 
@@ -104,6 +104,20 @@ Huggingface
 ## 4. Finanical News Sentiment Analysis
 
 ![project-2](https://user-images.githubusercontent.com/88341388/211352023-4366ae1b-f4b5-41f2-9836-2fb30ed0aeed.jpeg)
+
+
+### Problem Statement
+
+People with non-financial knowledge need to improve in making investment decisions.The solution to this problem could be visiting a trustworthy financial advisor. What if you do homework before visiting a financial advisor to ensure they are right about the current market condition?
+
+### Goal
+
+To make people's lives more manageable, I build an end-to-end NLP app which helps you learn the condition of an economy or market without spending time reading financial news.
+
+### Tools used to create & deploy app
+
+Tensorflow,streamlit and hugging face spaces
+
 
 ### About the Dataset
 
