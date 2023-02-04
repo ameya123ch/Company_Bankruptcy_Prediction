@@ -140,7 +140,9 @@ Acknowledgements: GDELT Headline Scrape script from Prof. Ken Blake (https://drk
 Motivation: The intent of generating this data was to compile recent years financial news headlines for India and perform sentiment analysis on it.
 
 
-### Check out my app: https://huggingface.co/spaces/ameya123ch/Financial_Sentiment_Analysis
+### App 
+
+https://huggingface.co/spaces/ameya123ch/Financial_Sentiment_Analysis
 
 
 
