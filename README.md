@@ -112,7 +112,8 @@ People with non-financial knowledge need to improve in making investment decisio
 
 ### Goal
 
-To make people's lives more manageable, I build an end-to-end NLP app which helps you learn the condition of an economy or market without spending time reading financial news.
+To provided a user-friendly and efficient way for individuals to stay informed and make informed investment decisions, leading to improved financial outcomes.
+
 
 ### Tools used to create & deploy app
 
