@@ -6,12 +6,13 @@
 
 
 
-
-
-
 ## 1. Online Payments Fraud Detection
 
-![dataset-cover](https://user-images.githubusercontent.com/88341388/203754171-9b931d52-652c-4b60-a868-d97920a21181.jpg)
+
+![cyber-theft-senior-fraud-GIF](https://user-images.githubusercontent.com/88341388/226688413-5c2ec406-43b4-45fa-b314-98c58f2b49fa.gif)
+
+
+
 
 ### Problem Statement
 
@@ -48,7 +49,8 @@ Compared with the other open-source machine learning libraries, PyCaret is an al
 
 ## 2. Credit Score Classification
 
-![istockphoto-1200726951-612x612](https://user-images.githubusercontent.com/88341388/203758077-9342a869-9631-49ae-91b6-136b0c4d9554.jpg)
+![587558_94666d0f64a641b499b304ac7538d207_mv2](https://user-images.githubusercontent.com/88341388/226689595-1798db91-babb-482d-be07-a71f740231d5.gif)
+
 
 ### Problem Statement
 
@@ -72,7 +74,7 @@ Given a person’s credit-related information, build a machine learning model th
 
 ## 3. Stock Price Forecasting App
 
-![91867Screenshot (125)](https://user-images.githubusercontent.com/88341388/203889985-dc079235-1694-4cf3-8176-f749c2e27604.png)
+![91867Screenshot (125)](https://img.etimg.com/thumb/height-450,width-600,imgsize-180242,msid-87946375/.jpg)
 
 ### Content
 
@@ -103,7 +105,8 @@ Huggingface
 
 ## 4. Finanical News Sentiment Analysis
 
-![project-2](https://user-images.githubusercontent.com/88341388/211352023-4366ae1b-f4b5-41f2-9836-2fb30ed0aeed.jpeg)
+
+![sentiment_gif_v02b](https://user-images.githubusercontent.com/88341388/226693375-65664154-529a-4dd8-bd34-14251b7797b1.gif)
 
 
 ### Problem Statement
@@ -153,7 +156,7 @@ https://huggingface.co/spaces/ameya123ch/Financial_Sentiment_Analysis
 
 ## 5. Company Bankruptcy Prediction
 
-![business-man-watching-company-go-bankrupt-pop](https://user-images.githubusercontent.com/88341388/203910486-bbc908c2-1d3b-4d79-b760-dcac7341b9fc.jpg)
+![business-man-watching-company-go-bankrupt-pop](https://img.etimg.com/thumb/msid-90690911,width-1070,height-580,imgsize-345899/photo.jpg)
 
 Bankruptcy data from the Taiwan Economic Journal for the years 1999–2009
 
