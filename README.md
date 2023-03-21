@@ -9,7 +9,7 @@
 ## 1. Online Payments Fraud Detection
 
 
-![cyber-theft-senior-fraud-GIF](https://user-images.githubusercontent.com/88341388/226688413-5c2ec406-43b4-45fa-b314-98c58f2b49fa.gif)
+![gifgit](https://user-images.githubusercontent.com/88341388/226695241-221b3a90-33fc-4635-a935-5e92da4a7080.gif)
 
 
 
@@ -49,7 +49,8 @@ Compared with the other open-source machine learning libraries, PyCaret is an al
 
 ## 2. Credit Score Classification
 
-![587558_94666d0f64a641b499b304ac7538d207_mv2](https://user-images.githubusercontent.com/88341388/226689595-1798db91-babb-482d-be07-a71f740231d5.gif)
+![gifgit (1)](https://user-images.githubusercontent.com/88341388/226695687-a9eb3247-8ea9-4359-97b6-f3d957ef3003.gif)
+
 
 
 ### Problem Statement
