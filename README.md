@@ -5,75 +5,7 @@
 ## Here is the list of my Finance Projects and a detailed overview of this projects:
 
 
-
-## 1. Online Payments Fraud Detection
-
-
-![gifgit](https://user-images.githubusercontent.com/88341388/226695241-221b3a90-33fc-4635-a935-5e92da4a7080.gif)
-
-
-
-
-### Problem Statement
-
-To identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. 
-
-
-### Data Gathering
-
-For this task, I have used a dataset containing information about online payment fraud, so that I can understand what types of transactions lead to fraud. I collected this a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments.
-
-### Data Preprocessing and Feature Engineering
-In this step, I faced certain challenges before the model building which were Imbalance data, Outliers and categorical variables.these problems were taken care of by auto ml library Pycaret.
-
-### Model Building using Auto ML
-
-###### Pycaret AutoML Library
-
-PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows.
-
-It is an end-to-end machine learning and model management tool that exponentially speeds up the experiment cycle and makes you more productive.
-
-Compared with the other open-source machine learning libraries, PyCaret is an alternate low-code library that can be used to replace hundreds of lines of code with a few lines only. This makes experiments exponentially fast and efficient.
-
-
-
-
-
-### App
-
-![Screenshot (7)](https://user-images.githubusercontent.com/88341388/210163372-5447d565-60f0-4f9f-aeb6-dd21354571fb.png)
-
-
-
-
-## 2. Credit Score Classification
-
-![gifgit (1)](https://user-images.githubusercontent.com/88341388/226695687-a9eb3247-8ea9-4359-97b6-f3d957ef3003.gif)
-
-
-
-### Problem Statement
-
-You are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.
-
-
-
-### Task
-
-Given a person’s credit-related information, build a machine learning model that can classify the credit score.
-
-
-
-###### Dataset link : https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification
-
-
-
-
-
-
-
-## 3. Stock Price Forecasting App
+## 1. Stock Price Forecasting App
 
 ![91867Screenshot (125)](https://img.etimg.com/thumb/height-450,width-600,imgsize-180242,msid-87946375/.jpg)
 
@@ -104,7 +36,7 @@ Huggingface
 
 
 
-## 4. Finanical News Sentiment Analysis
+## 2. Finanical News Sentiment Analysis
 
 
 ![sentiment_gif_v02b](https://user-images.githubusercontent.com/88341388/226693375-65664154-529a-4dd8-bd34-14251b7797b1.gif)
@@ -155,7 +87,7 @@ https://huggingface.co/spaces/ameya123ch/Financial_Sentiment_Analysis
 
 
 
-## 5. Company Bankruptcy Prediction
+## 3. Company Bankruptcy Prediction
 
 ![business-man-watching-company-go-bankrupt-pop](https://img.etimg.com/thumb/msid-90690911,width-1070,height-580,imgsize-345899/photo.jpg)
 
