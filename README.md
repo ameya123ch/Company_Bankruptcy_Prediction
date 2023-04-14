@@ -1,35 +1,23 @@
 
-
-# Finance-Related Data Science Projects
-
-## Here is the list of my Finance Projects and a detailed overview of this projects:
-
-## Company Bankruptcy Prediction
+# Company Bankruptcy Prediction
 
 ![business-man-watching-company-go-bankrupt-pop](https://img.etimg.com/thumb/msid-90690911,width-1070,height-580,imgsize-345899/photo.jpg)
 
-Bankruptcy data from the Taiwan Economic Journal for the years 1999–2009
+### Background: 
+Bankruptcy prediction is an essential task for investors, creditors, and financial institutions to minimize financial risks. Traditional statistical models are not sufficient to capture the complex relationships between variables that may lead to bankruptcy. Therefore, it is necessary to use advanced techniques such as deep learning and machine learning to accurately predict company bankruptcy.
 
-### Context
+### Objective: 
+The objective of this project is to develop an automated company bankruptcy classification system using deep learning and machine learning to accurately predict whether a company will go bankrupt or not.
 
-The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
+### Methodology: 
+The proposed system will use both deep learning and machine learning algorithms to analyze and predict company bankruptcy. The system will be trained on a dataset of financial and economic data for companies that have gone bankrupt in the past and those that have not. The system will employ several techniques to improve the accuracy of bankruptcy prediction, including data preprocessing, feature engineering, and model tuning.The system will use several deep learning algorithm, including Deep neural networks (DNNs) to capture the complex relationships between variables in the data. The system will also use several machine learning algorithms, including K nearest Neighbours, Random Forest, Logistic Regression and XGBoost, to improve the accuracy of the classification.
+The system's performance will be evaluated using a separate test dataset to assess its accuracy and generalization performance. The system's performance will also be compared to traditional statistical models to evaluate its effectiveness.
 
-### Source
+### Expected Outcomes: 
+The system is expected to achieve high accuracy in company bankruptcy prediction, which will help investors and financial institutions make informed decisions. The system will also be scalable, meaning it can handle large volumes of financial and economic data without compromising its accuracy.
 
-Deron Liang and Chih-Fong Tsai, deronliang '@' gmail.com; cftsai '@' mgt.ncu.edu.tw, National Central University, Taiwan The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
-
-
-### Dataset link : https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
-
-
-### Task
-Create a model which can classify whether the company will go bankcrupt or not
-
-### Challenges Faced
-
-Outliers
-
-Imbalanced Dataset
+### Conclusion: 
+The proposed automated company bankruptcy classification system using deep learning and machine learning will help investors and financial institutions improve their bankruptcy prediction models and make more accurate investment decisions. It will be an essential tool for creditors, financial advisors, and other professionals involved in financial risk management.
 
 
 
