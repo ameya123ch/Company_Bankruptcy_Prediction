@@ -14,7 +14,7 @@ The proposed system will use both deep learning and machine learning algorithms 
 The system's performance will be evaluated using a separate test dataset to assess its accuracy and generalization performance. The system's performance will also be compared to traditional statistical models to evaluate its effectiveness.
 
 ### Expected Outcomes: 
-The system is expected to achieve high accuracy in company bankruptcy prediction, which will help investors and financial institutions make informed decisions. The system will also be scalable, meaning it can handle large volumes of financial and economic data without compromising its accuracy.
+The system has achieved high accuracy, which will help investors and financial institutions make informed decisions. The system will also be scalable, meaning it can handle large volumes of financial and economic data without compromising its accuracy.
 
 ### Conclusion: 
 The proposed automated company bankruptcy classification system using deep learning and machine learning will help investors and financial institutions improve their bankruptcy prediction models and make more accurate investment decisions. It will be an essential tool for creditors, financial advisors, and other professionals involved in financial risk management.
